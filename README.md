@@ -1,1 +1,4 @@
-# csd-380
+# csd-380 DevOps
+## Contributors
+ - Jonathan Davis
+ - Adam Bailey
